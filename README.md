@@ -1,5 +1,5 @@
-# Dissertation
-Dashboard and modeling Shiny App
+## Dissertation Project
+### R Shiny App - Dashboard and statistical modeling 
 
 This page contains the code and input data for an app built for suicide trend analysis. 
 The first tab of the app enables interactive data visualisation whilst the second
